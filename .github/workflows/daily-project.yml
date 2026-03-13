@@ -1,0 +1,72 @@
+name: 🚀 Daily Project Generator
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # Every day at 6:00 AM UTC (11:30 AM IST)
+  workflow_dispatch:        # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  generate-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: ⬇️ Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Install dependencies
+        run: |
+          pip install pandas numpy matplotlib scikit-learn statsmodels
+
+      - name: ⚙️ Generate today's project
+        id: generate
+        run: |
+          cd ${{ github.workspace }}
+          python scripts/generate_project.py | tee /tmp/summary.json
+          echo "project_title=$(python -c "import json; d=json.load(open('/tmp/summary.json')); print(d['title'])")" >> $GITHUB_OUTPUT
+          echo "project_category=$(python -c "import json; d=json.load(open('/tmp/summary.json')); print(d['category'])")" >> $GITHUB_OUTPUT
+          echo "day=$(python -c "import json; d=json.load(open('/tmp/summary.json')); print(d['day'])")" >> $GITHUB_OUTPUT
+          echo "folder=$(python -c "import json; d=json.load(open('/tmp/summary.json')); print(d['folder'])")" >> $GITHUB_OUTPUT
+
+      - name: ✅ Verify generated files
+        run: |
+          echo "Files generated:"
+          ls -la ${{ steps.generate.outputs.folder }}/
+
+      - name: 🔧 Git config
+        run: |
+          git config user.name  "Ravikant Shete"
+          git config user.email "ravikantshete7@gmail.com"
+
+      - name: 📤 Commit and push
+        run: |
+          git add projects/
+          git status
+          git diff --cached --quiet && echo "Nothing to commit" || \
+          git commit -m "Day ${{ steps.generate.outputs.day }} | ${{ steps.generate.outputs.project_category }} | ${{ steps.generate.outputs.project_title }}
+
+          Auto-generated daily mini-project
+          Category : ${{ steps.generate.outputs.project_category }}
+          Project  : ${{ steps.generate.outputs.project_title }}
+          Folder   : ${{ steps.generate.outputs.folder }}"
+          git push
+
+      - name: 📋 Step summary
+        run: |
+          echo "## ✅ Day ${{ steps.generate.outputs.day }} Done!" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Field | Value |" >> $GITHUB_STEP_SUMMARY
+          echo "|-------|-------|" >> $GITHUB_STEP_SUMMARY
+          echo "| Project | ${{ steps.generate.outputs.project_title }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Category | ${{ steps.generate.outputs.project_category }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Folder | \`${{ steps.generate.outputs.folder }}\` |" >> $GITHUB_STEP_SUMMARY
