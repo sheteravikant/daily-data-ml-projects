@@ -7,3 +7,4 @@
 | 438 | 2026-03-14 | ML              | [Random Forest Feature Importance](projects/day-438-random-forest-feature-importance/README.md) |
 | 438 | 2026-03-14 | ML              | [Random Forest Feature Importance](projects/day-438-random-forest-feature-importance/README.md) |
 | 439 | 2026-03-15 | Data Analysis   | [Time-Series Trend Decomposition](projects/day-439-time-series-trend-decomposition/README.md) |
+| 440 | 2026-03-16 | ML              | [Customer Churn Mini-Model](projects/day-440-customer-churn-mini-model/README.md) |
