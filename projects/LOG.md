@@ -9,3 +9,4 @@
 | 439 | 2026-03-15 | Data Analysis   | [Time-Series Trend Decomposition](projects/day-439-time-series-trend-decomposition/README.md) |
 | 440 | 2026-03-16 | ML              | [Customer Churn Mini-Model](projects/day-440-customer-churn-mini-model/README.md) |
 | 440 | 2026-03-16 | ML              | [Customer Churn Mini-Model](projects/day-440-customer-churn-mini-model/README.md) |
+| 441 | 2026-03-17 | ML              | [Anomaly Detection on Sales Data](projects/day-441-anomaly-detection-on-sales-data/README.md) |
