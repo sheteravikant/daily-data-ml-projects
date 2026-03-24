@@ -17,3 +17,4 @@
 | 446 | 2026-03-22 | ML              | [Ridge Regression House Price Predictor](projects/day-446-ridge-regression-house-price-predictor/README.md) |
 | 447 | 2026-03-23 | Data Analysis   | [SQL Window Functions with Pandas](projects/day-447-sql-window-functions-with-pandas/README.md) |
 | 447 | 2026-03-23 | Data Analysis   | [SQL Window Functions with Pandas](projects/day-447-sql-window-functions-with-pandas/README.md) |
+| 448 | 2026-03-24 | ML              | [Random Forest Feature Importance](projects/day-448-random-forest-feature-importance/README.md) |
