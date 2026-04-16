@@ -42,3 +42,4 @@
 | 470 | 2026-04-15 | ML              | [Customer Churn Mini-Model](projects/day-470-customer-churn-mini-model/README.md) |
 | 471 | 2026-04-16 | ML              | [Anomaly Detection on Sales Data](projects/day-471-anomaly-detection-on-sales-data/README.md) |
 | 471 | 2026-04-16 | ML              | [Anomaly Detection on Sales Data](projects/day-471-anomaly-detection-on-sales-data/README.md) |
+| 471 | 2026-04-16 | ML              | [Anomaly Detection on Sales Data](projects/day-471-anomaly-detection-on-sales-data/README.md) |
