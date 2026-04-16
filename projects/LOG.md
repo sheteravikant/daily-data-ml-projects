@@ -40,3 +40,4 @@
 | 468 | 2026-04-13 | ML              | [Random Forest Feature Importance](projects/day-468-random-forest-feature-importance/README.md) |
 | 469 | 2026-04-14 | Data Analysis   | [Time-Series Trend Decomposition](projects/day-469-time-series-trend-decomposition/README.md) |
 | 470 | 2026-04-15 | ML              | [Customer Churn Mini-Model](projects/day-470-customer-churn-mini-model/README.md) |
+| 471 | 2026-04-16 | ML              | [Anomaly Detection on Sales Data](projects/day-471-anomaly-detection-on-sales-data/README.md) |
