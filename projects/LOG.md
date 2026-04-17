@@ -43,3 +43,4 @@
 | 471 | 2026-04-16 | ML              | [Anomaly Detection on Sales Data](projects/day-471-anomaly-detection-on-sales-data/README.md) |
 | 471 | 2026-04-16 | ML              | [Anomaly Detection on Sales Data](projects/day-471-anomaly-detection-on-sales-data/README.md) |
 | 471 | 2026-04-16 | ML              | [Anomaly Detection on Sales Data](projects/day-471-anomaly-detection-on-sales-data/README.md) |
+| 472 | 2026-04-17 | ML              | [RFM Customer Segmentation](projects/day-472-rfm-customer-segmentation/README.md) |
