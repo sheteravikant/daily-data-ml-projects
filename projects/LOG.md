@@ -45,3 +45,4 @@
 | 471 | 2026-04-16 | ML              | [Anomaly Detection on Sales Data](projects/day-471-anomaly-detection-on-sales-data/README.md) |
 | 472 | 2026-04-17 | ML              | [RFM Customer Segmentation](projects/day-472-rfm-customer-segmentation/README.md) |
 | 473 | 2026-04-18 | Data Analysis   | [EDA on E-Commerce Sales](projects/day-473-eda-on-e-commerce-sales/README.md) |
+| 474 | 2026-04-19 | Data Analysis   | [Data Quality Checker](projects/day-474-data-quality-checker/README.md) |
