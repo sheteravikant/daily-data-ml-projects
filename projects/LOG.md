@@ -50,3 +50,4 @@
 | 476 | 2026-04-21 | ML              | [Ridge Regression House Price Predictor](projects/day-476-ridge-regression-house-price-predictor/README.md) |
 | 477 | 2026-04-22 | Data Analysis   | [SQL Window Functions with Pandas](projects/day-477-sql-window-functions-with-pandas/README.md) |
 | 478 | 2026-04-23 | ML              | [Random Forest Feature Importance](projects/day-478-random-forest-feature-importance/README.md) |
+| 479 | 2026-04-24 | Data Analysis   | [Time-Series Trend Decomposition](projects/day-479-time-series-trend-decomposition/README.md) |
