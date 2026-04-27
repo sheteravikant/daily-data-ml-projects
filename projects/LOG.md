@@ -53,3 +53,4 @@
 | 479 | 2026-04-24 | Data Analysis   | [Time-Series Trend Decomposition](projects/day-479-time-series-trend-decomposition/README.md) |
 | 480 | 2026-04-25 | ML              | [Customer Churn Mini-Model](projects/day-480-customer-churn-mini-model/README.md) |
 | 481 | 2026-04-26 | ML              | [Anomaly Detection on Sales Data](projects/day-481-anomaly-detection-on-sales-data/README.md) |
+| 482 | 2026-04-27 | ML              | [RFM Customer Segmentation](projects/day-482-rfm-customer-segmentation/README.md) |
