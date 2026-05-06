@@ -62,3 +62,4 @@
 | 488 | 2026-05-03 | ML              | [Random Forest Feature Importance](projects/day-488-random-forest-feature-importance/README.md) |
 | 489 | 2026-05-04 | Data Analysis   | [Time-Series Trend Decomposition](projects/day-489-time-series-trend-decomposition/README.md) |
 | 490 | 2026-05-05 | ML              | [Customer Churn Mini-Model](projects/day-490-customer-churn-mini-model/README.md) |
+| 491 | 2026-05-06 | ML              | [Anomaly Detection on Sales Data](projects/day-491-anomaly-detection-on-sales-data/README.md) |
