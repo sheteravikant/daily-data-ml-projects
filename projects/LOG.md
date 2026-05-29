@@ -85,3 +85,4 @@
 | 511 | 2026-05-26 | ML              | [Anomaly Detection on Sales Data](projects/day-511-anomaly-detection-on-sales-data/README.md) |
 | 512 | 2026-05-27 | ML              | [RFM Customer Segmentation](projects/day-512-rfm-customer-segmentation/README.md) |
 | 513 | 2026-05-28 | Data Analysis   | [EDA on E-Commerce Sales](projects/day-513-eda-on-e-commerce-sales/README.md) |
+| 514 | 2026-05-29 | Data Analysis   | [Data Quality Checker](projects/day-514-data-quality-checker/README.md) |
