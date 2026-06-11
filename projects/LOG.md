@@ -98,3 +98,4 @@
 | 524 | 2026-06-08 | Data Analysis   | [Data Quality Checker](projects/day-524-data-quality-checker/README.md) |
 | 525 | 2026-06-09 | NLP             | [TF-IDF Resume Keyword Extractor](projects/day-525-tf-idf-resume-keyword-extractor/README.md) |
 | 526 | 2026-06-10 | ML              | [Ridge Regression House Price Predictor](projects/day-526-ridge-regression-house-price-predictor/README.md) |
+| 527 | 2026-06-11 | Data Analysis   | [SQL Window Functions with Pandas](projects/day-527-sql-window-functions-with-pandas/README.md) |
