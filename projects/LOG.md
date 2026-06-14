@@ -101,3 +101,4 @@
 | 527 | 2026-06-11 | Data Analysis   | [SQL Window Functions with Pandas](projects/day-527-sql-window-functions-with-pandas/README.md) |
 | 528 | 2026-06-12 | ML              | [Random Forest Feature Importance](projects/day-528-random-forest-feature-importance/README.md) |
 | 529 | 2026-06-13 | Data Analysis   | [Time-Series Trend Decomposition](projects/day-529-time-series-trend-decomposition/README.md) |
+| 530 | 2026-06-14 | ML              | [Customer Churn Mini-Model](projects/day-530-customer-churn-mini-model/README.md) |
