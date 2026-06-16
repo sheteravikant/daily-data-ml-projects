@@ -103,3 +103,4 @@
 | 529 | 2026-06-13 | Data Analysis   | [Time-Series Trend Decomposition](projects/day-529-time-series-trend-decomposition/README.md) |
 | 530 | 2026-06-14 | ML              | [Customer Churn Mini-Model](projects/day-530-customer-churn-mini-model/README.md) |
 | 531 | 2026-06-15 | ML              | [Anomaly Detection on Sales Data](projects/day-531-anomaly-detection-on-sales-data/README.md) |
+| 532 | 2026-06-16 | ML              | [RFM Customer Segmentation](projects/day-532-rfm-customer-segmentation/README.md) |
