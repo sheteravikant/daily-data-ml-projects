@@ -124,3 +124,4 @@
 | 550 | 2026-07-04 | ML              | [Customer Churn Mini-Model](projects/day-550-customer-churn-mini-model/README.md) |
 | 551 | 2026-07-05 | ML              | [Anomaly Detection on Sales Data](projects/day-551-anomaly-detection-on-sales-data/README.md) |
 | 552 | 2026-07-06 | ML              | [RFM Customer Segmentation](projects/day-552-rfm-customer-segmentation/README.md) |
+| 553 | 2026-07-07 | Data Analysis   | [EDA on E-Commerce Sales](projects/day-553-eda-on-e-commerce-sales/README.md) |
