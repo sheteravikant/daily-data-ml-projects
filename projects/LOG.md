@@ -149,3 +149,4 @@
 | 575 | 2026-07-29 | NLP             | [TF-IDF Resume Keyword Extractor](projects/day-575-tf-idf-resume-keyword-extractor/README.md) |
 | 576 | 2026-07-30 | ML              | [Ridge Regression House Price Predictor](projects/day-576-ridge-regression-house-price-predictor/README.md) |
 | 577 | 2026-07-31 | Data Analysis   | [SQL Window Functions with Pandas](projects/day-577-sql-window-functions-with-pandas/README.md) |
+| 578 | 2026-08-01 | ML              | [Random Forest Feature Importance](projects/day-578-random-forest-feature-importance/README.md) |
