@@ -151,3 +151,4 @@
 | 577 | 2026-07-31 | Data Analysis   | [SQL Window Functions with Pandas](projects/day-577-sql-window-functions-with-pandas/README.md) |
 | 578 | 2026-08-01 | ML              | [Random Forest Feature Importance](projects/day-578-random-forest-feature-importance/README.md) |
 | 579 | 2026-08-02 | Data Analysis   | [Time-Series Trend Decomposition](projects/day-579-time-series-trend-decomposition/README.md) |
+| 580 | 2026-08-03 | ML              | [Customer Churn Mini-Model](projects/day-580-customer-churn-mini-model/README.md) |
