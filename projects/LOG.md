@@ -182,3 +182,4 @@
 | 608 | 2026-08-31 | ML              | [Random Forest Feature Importance](projects/day-608-random-forest-feature-importance/README.md) |
 | 609 | 2026-09-01 | Data Analysis   | [Time-Series Trend Decomposition](projects/day-609-time-series-trend-decomposition/README.md) |
 | 610 | 2026-09-02 | ML              | [Customer Churn Mini-Model](projects/day-610-customer-churn-mini-model/README.md) |
+| 611 | 2026-09-03 | ML              | [Anomaly Detection on Sales Data](projects/day-611-anomaly-detection-on-sales-data/README.md) |
