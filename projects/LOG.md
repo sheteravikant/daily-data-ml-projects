@@ -193,3 +193,4 @@
 | 619 | 2026-09-11 | Data Analysis   | [Time-Series Trend Decomposition](projects/day-619-time-series-trend-decomposition/README.md) |
 | 620 | 2026-09-12 | ML              | [Customer Churn Mini-Model](projects/day-620-customer-churn-mini-model/README.md) |
 | 621 | 2026-09-13 | ML              | [Anomaly Detection on Sales Data](projects/day-621-anomaly-detection-on-sales-data/README.md) |
+| 622 | 2026-09-14 | ML              | [RFM Customer Segmentation](projects/day-622-rfm-customer-segmentation/README.md) |
