@@ -230,3 +230,4 @@
 | 656 | 2026-10-18 | ML              | [Ridge Regression House Price Predictor](projects/day-656-ridge-regression-house-price-predictor/README.md) |
 | 657 | 2026-10-19 | Data Analysis   | [SQL Window Functions with Pandas](projects/day-657-sql-window-functions-with-pandas/README.md) |
 | 658 | 2026-10-20 | ML              | [Random Forest Feature Importance](projects/day-658-random-forest-feature-importance/README.md) |
+| 659 | 2026-10-21 | Data Analysis   | [Time-Series Trend Decomposition](projects/day-659-time-series-trend-decomposition/README.md) |
