@@ -237,3 +237,4 @@
 | 663 | 2026-10-25 | Data Analysis   | [EDA on E-Commerce Sales](projects/day-663-eda-on-e-commerce-sales/README.md) |
 | 664 | 2026-10-26 | Data Analysis   | [Data Quality Checker](projects/day-664-data-quality-checker/README.md) |
 | 665 | 2026-10-27 | NLP             | [TF-IDF Resume Keyword Extractor](projects/day-665-tf-idf-resume-keyword-extractor/README.md) |
+| 666 | 2026-10-28 | ML              | [Ridge Regression House Price Predictor](projects/day-666-ridge-regression-house-price-predictor/README.md) |
