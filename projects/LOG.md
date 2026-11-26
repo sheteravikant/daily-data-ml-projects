@@ -266,3 +266,4 @@
 | 692 | 2026-11-23 | ML              | [RFM Customer Segmentation](projects/day-692-rfm-customer-segmentation/README.md) |
 | 693 | 2026-11-24 | Data Analysis   | [EDA on E-Commerce Sales](projects/day-693-eda-on-e-commerce-sales/README.md) |
 | 694 | 2026-11-25 | Data Analysis   | [Data Quality Checker](projects/day-694-data-quality-checker/README.md) |
+| 695 | 2026-11-26 | NLP             | [TF-IDF Resume Keyword Extractor](projects/day-695-tf-idf-resume-keyword-extractor/README.md) |
